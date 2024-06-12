@@ -14,7 +14,7 @@ theme: minima
 header_pages:
   - resume.md
   - projects.md
-  - portfolio.md
+  - publications.md
 
 # Exclude from processing.
 # The following items will not be processed, by default.
